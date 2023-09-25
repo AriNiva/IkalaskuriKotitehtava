@@ -1,0 +1,7 @@
+C:\Users\arinp\source\repos\IkalaskuriKotitehtava\IkalaskuriKotitehtava\bin\Debug\IkalaskuriKotitehtava.exe.config
+C:\Users\arinp\source\repos\IkalaskuriKotitehtava\IkalaskuriKotitehtava\bin\Debug\IkalaskuriKotitehtava.exe
+C:\Users\arinp\source\repos\IkalaskuriKotitehtava\IkalaskuriKotitehtava\bin\Debug\IkalaskuriKotitehtava.pdb
+C:\Users\arinp\source\repos\IkalaskuriKotitehtava\IkalaskuriKotitehtava\obj\Debug\IkalaskuriKotitehtava.csproj.AssemblyReference.cache
+C:\Users\arinp\source\repos\IkalaskuriKotitehtava\IkalaskuriKotitehtava\obj\Debug\IkalaskuriKotitehtava.csproj.CoreCompileInputs.cache
+C:\Users\arinp\source\repos\IkalaskuriKotitehtava\IkalaskuriKotitehtava\obj\Debug\IkalaskuriKotitehtava.exe
+C:\Users\arinp\source\repos\IkalaskuriKotitehtava\IkalaskuriKotitehtava\obj\Debug\IkalaskuriKotitehtava.pdb
